@@ -1,0 +1,25 @@
+body {
+            background-color: lightblue;
+}
+input {
+            width: 100%;
+}
+input[type=text] {
+            color:black;
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+}
+div.form {
+            padding-top: 10%;                   
+            display: block;
+            text-align: center;
+            outline: 5px black;
+}
+form {
+            display: inline-block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+}
