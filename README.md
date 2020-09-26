@@ -1,0 +1,2 @@
+- This website is created for encrypting password for making it stronger and hard to guess.
+- This site does not store any of the passwords what users will create
