@@ -1,2 +1,3 @@
-- This website is created for encrypting password for making it stronger and hard to guess.
-- This site does not store any of the passwords what users will create
+Change your text to a encrypted form and send it across. You can even decrypt the encrypted text in the same portal.
+Have fun with this site :)
+https://fastnoob.github.io/encrypt-decrypt/
